@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <color name="lightblue">#ADD8E6</color><!--亮蓝色 -->
+    <color name="lightgreen">#90EE90</color><!--亮绿色 -->
+    <color name="lightRed">#90ff0000</color><!--亮红色 -->
+</resources>

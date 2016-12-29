@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:id="@+id/dialog_view"   
+    android:orientation="vertical"  
+    android:layout_width="match_parent"   
+    android:layout_height="match_parent"  
+    android:minHeight="60dp"  
+    android:minWidth="180dp"  
+    android:gravity="center"  
+    android:background="@drawable/circle_corner_loading" 
+    >  
+    <ImageView   
+        android:id="@+id/img_loading"  
+        android:layout_width="150dp"   
+        android:layout_height="150dp"   
+        android:src="@drawable/welcome"
+        /> 
+  <!--          -->
+    
+    <TextView   
+        android:layout_marginTop="10dp"
+        android:id="@+id/tipTextView"  
+        android:layout_width="wrap_content"   
+        android:layout_height="wrap_content"  
+        android:textColor="@color/lightRed"
+        android:textSize="20sp"
+        android:text="数据加载中……" />  
+</LinearLayout>

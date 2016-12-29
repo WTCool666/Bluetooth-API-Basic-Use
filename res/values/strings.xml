@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BleDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="current_device">已连接设备</string>
+    <string name="no">无</string>
+    <string name="yourSelf">本机设备</string>
+    <string name="device_list">设备列表</string>
+    <string name="stop_scan">停止搜索</string>
+    <string name="start_scan">开始搜索</string>
+    <string name="uncon">断开连接</string>
+    <string name="openble">开启蓝牙</string>
+
+</resources>
